@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ag_car/static/css/main.7822a646.css",
-    "main.js": "/ag_car/static/js/main.7b6ea290.js",
+    "main.js": "/ag_car/static/js/main.2d9ad0ee.js",
     "index.html": "/ag_car/index.html",
     "main.7822a646.css.map": "/ag_car/static/css/main.7822a646.css.map",
-    "main.7b6ea290.js.map": "/ag_car/static/js/main.7b6ea290.js.map"
+    "main.2d9ad0ee.js.map": "/ag_car/static/js/main.2d9ad0ee.js.map"
   },
   "entrypoints": [
     "static/css/main.7822a646.css",
-    "static/js/main.7b6ea290.js"
+    "static/js/main.2d9ad0ee.js"
   ]
 }
